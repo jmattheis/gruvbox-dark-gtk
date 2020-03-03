@@ -2,6 +2,8 @@
 
 Created with https://github.com/themix-project/oomox
 
+Used with https://github.com/jmattheis/gruvbox-dark-icons-gtk
+
 ## Install
 
 ```bash
