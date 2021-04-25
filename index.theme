@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=oomox-gruvbox-dark-gtk
+Name=gruvbox-dark
 Comment=No comment
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-Name=oomox-gruvbox-dark-gtk
-GtkTheme=oomox-gruvbox-dark-gtk
-IconTheme=oomox-gruvbox-dark-gtk
-MetacityTheme=oomox-gruvbox-dark-gtk
+Name=gruvbox-dark
+GtkTheme=gruvbox-dark
+IconTheme=gruvbox-dark
+MetacityTheme=gruvbox-dark
