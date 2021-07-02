@@ -6,7 +6,11 @@ Used with https://github.com/jmattheis/gruvbox-dark-icons-gtk
 
 ## Install
 
-Available in the aur -> https://aur.archlinux.org/packages/gruvbox-dark-gtk/
+nixos -> [gruvbox-dark-gtk](https://github.com/NixOS/nixpkgs/blob/master/pkgs/data/themes/gruvbox-dark-gtk/default.nix)
+
+archlinux user repository -> [gruvbox-dark-gtk](https://aur.archlinux.org/packages/gruvbox-dark-gtk/)
+
+### Manual
 
 ```bash
 $ git clone https://github.com/jmattheis/gruvbox-dark-gtk ~/.themes/gruvbox-dark-gtk
